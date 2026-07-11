@@ -1,0 +1,18 @@
+{
+  "name": "RL Dictionary — Sinhala · English · Tamil",
+  "short_name": "RL Dictionary",
+  "description": "Offline English⇄Sinhala and English⇄Tamil dictionary with Sinhala phonetic (Singlish) typing and pronunciation.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f1e15",
+  "theme_color": "#16341F",
+  "lang": "en",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
